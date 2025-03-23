@@ -2,6 +2,8 @@
 Script to extract songs from SoundCloud and turn them into .mp3's with metadata
 
 # Set-up
+Copy the code in soundcloud_to_mp3_lt.py and add it to your IDE (Visual Studio Code)
+
 Download ffmpeg and place ffmpeg.exe, ffplay.exe, and ffprobe.exe in your script's filepath
 
 ffmpeg download: https://ffmpeg.org/download.html
