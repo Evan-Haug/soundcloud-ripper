@@ -1,5 +1,7 @@
 # soundcloud-ripper
-Script + ffmpeg .exe's to extract songs from SoundCloud and turn them into .mp3's with metadata
+Script to extract songs from SoundCloud and turn them into .mp3's with metadata
+Download ffmpeg and place ffmpeg.exe, ffplay.exe, and ffprobe.exe in your script's filepath
+ffmpeg download: https://ffmpeg.org/download.html
 
 # How to use
 ![image](https://github.com/user-attachments/assets/3432bd2c-0974-4c47-9ea5-f3dcf29f471f)
